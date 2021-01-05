@@ -51,3 +51,6 @@ Input rentang harga tertinggi :
 # Input the total of the product  
 Input jumlah barang untuk di sorting : 
 ```
+
+> Result
+![alt text](https://github.com/kevinopee/Lazada-Product-Price-Comparison/blob/main/Screen%20Shot%202021-01-06%20at%2004.25.15.png)
