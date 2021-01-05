@@ -21,6 +21,11 @@
 
 ### Usage
 
+- **Clone this repo, open and run the Project UAS DAA - Final.ipynb file in your *Jupyter Notebook* **
+
+![alt text](https://github.com/kevinopee/Lazada-Product-Price-Comparison/blob/main/Screen%20Shot%202021-01-06%20at%2004.18.30.png)
+
+
 - **Chrome options**
 
 ```
