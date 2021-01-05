@@ -21,8 +21,6 @@
 
 ### Usage
 
------
-
 - **Chrome options**
 
 ```
