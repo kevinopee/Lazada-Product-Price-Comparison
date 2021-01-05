@@ -1,5 +1,5 @@
 # Lazada-Product-Price-Comparison
-Lazada Product Price Comparison build with Python and driven by Selenium
+Implementasi Algoritma Sorting untuk Sorting Harga Suatu Produk pada E-Commerce Menggunakan Data dengan Scraping dan Web Automation
 
 > Nama Kelompok:
 - Alzidan Zulfan Amiraz(2019071004)
