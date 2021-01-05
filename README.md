@@ -1,5 +1,5 @@
 # Lazada-Product-Price-Comparison
-Implementasi Algoritma Sorting untuk Sorting Harga Suatu Produk pada E-Commerce Menggunakan Data dengan Scraping dan Web Automation
+## Implementasi Algoritma Sorting untuk Sorting Harga Suatu Produk pada E-Commerce Menggunakan Data dengan Scraping dan Web Automation
 
 > Nama Kelompok:
 - Alzidan Zulfan Amiraz(2019071004)
