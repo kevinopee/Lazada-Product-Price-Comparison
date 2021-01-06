@@ -59,4 +59,3 @@ Input jumlah barang untuk di sorting :
 > Only sorted 5 items
 
 ![alt text](https://github.com/kevinopee/Lazada-Product-Price-Comparison/blob/main/Screen%20Shot%202021-01-06%20at%2004.25.15.png
-......................................................................................................................................................................
